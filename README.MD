@@ -17,7 +17,7 @@ Here is an example of what i expect as entry for the creation of the query with 
             "fieldName": "column2",
             "fieldValue": "value"
         }
-    ], columns ando operations bein made
+    ], columns and operations being made
     "join": [
         {
             "joinType": "LEFT OUTER", Type of the join
