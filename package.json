@@ -1,0 +1,7 @@
+{
+  "name": "teste1010",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "author": "luantafarel <luantafarel7@gmail.com>",
+  "license": "MIT"
+}
