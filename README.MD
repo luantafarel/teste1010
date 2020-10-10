@@ -1,5 +1,6 @@
 
 Here is an example of what i expect as entry for the creation of the query with witch field explained.
+```json
 {
     "tableName": "name", Name of the main table for the select
     "attributes": [
@@ -26,5 +27,5 @@ Here is an example of what i expect as entry for the creation of the query with 
         }
     ] Joined tables
 }
-
+```
 I made it as simple as i could withoult using any packages, it simple goes trough the JSON of the entry and appends into a string each of the values inserted.
